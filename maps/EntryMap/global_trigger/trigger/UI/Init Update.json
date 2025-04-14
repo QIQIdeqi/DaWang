@@ -284,10 +284,12 @@
                                         }
                                     ], 
                                     "sub_type": "ANY_VAR_TO_STR"
-                                }
+                                }, 
+                                null
                             ], 
                             "op_arg_enable": [
-                                true
+                                true, 
+                                false
                             ]
                         }, 
                         {

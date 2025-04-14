@@ -1,6 +1,7 @@
 {
     "adapt_mode": 2, 
     "anim_data": {}, 
+    "auto_create": true, 
     "children": [
         {
             "children": [], 
@@ -71,6 +72,7 @@
     ], 
     "name": "win", 
     "opacity": 1.0, 
+    "script_name": "", 
     "type": 2, 
     "ui_anims": [], 
     "uid": "d4c01f64-7413-4c8e-b0e5-4297d4a59c7a", 

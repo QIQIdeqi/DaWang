@@ -1,4 +1,87 @@
 {
- "f": [], 
- "d": {}
+ "f": [
+  {
+   "__tuple__": true, 
+   "items": [
+    "", 
+    0, 
+    2147483647, 
+    "code_explorer_custom_root_folder_name"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "DOc2QRklEfCy8HMFiWNO2N", 
+    "Y3\u9632\u5b88demo"
+   ]
+  }
+ ], 
+ "d": {
+  "134262581": {
+   "__tuple__": true, 
+   "items": [
+    "DOc2QRklEfCy8HMFiWNO2N", 
+    0
+   ]
+  }, 
+  "134266361": {
+   "__tuple__": true, 
+   "items": [
+    "DOc2QRklEfCy8HMFiWNO2N", 
+    1
+   ]
+  }, 
+  "134245799": {
+   "__tuple__": true, 
+   "items": [
+    "DOc2QRklEfCy8HMFiWNO2N", 
+    2
+   ]
+  }, 
+  "134259237": {
+   "__tuple__": true, 
+   "items": [
+    "DOc2QRklEfCy8HMFiWNO2N", 
+    3
+   ]
+  }, 
+  "134248641": {
+   "__tuple__": true, 
+   "items": [
+    "DOc2QRklEfCy8HMFiWNO2N", 
+    4
+   ]
+  }, 
+  "134244789": {
+   "__tuple__": true, 
+   "items": [
+    "DOc2QRklEfCy8HMFiWNO2N", 
+    5
+   ]
+  }, 
+  "134276941": {
+   "__tuple__": true, 
+   "items": [
+    "DOc2QRklEfCy8HMFiWNO2N", 
+    6
+   ]
+  }, 
+  "134275430": {
+   "__tuple__": true, 
+   "items": [
+    "DOc2QRklEfCy8HMFiWNO2N", 
+    7
+   ]
+  }, 
+  "134239139": {
+   "__tuple__": true, 
+   "items": [
+    "DOc2QRklEfCy8HMFiWNO2N", 
+    8
+   ]
+  }
+ }
 }
